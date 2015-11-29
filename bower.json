@@ -1,7 +1,7 @@
 {
   "name": "elliptical-lodash",
   "description": "Custom lodash builds for function, array and collections",
-  "version":"1.0.3",
+  "version":"1.0.4",
   "main": "dist/elliptical.lodash.collections.js",
   "authors": [
     "S. Francis"
@@ -12,13 +12,33 @@
     "collections",
     "function"
   ],
-  "homepage": "https://github.com/tachyon1337/elliptical-lodash",
+  "homepage": "https://github.com/ellipticaljs/lodash",
   "moduleType": [],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "index.html",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk"
   ]
 }

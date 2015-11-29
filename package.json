@@ -1,12 +1,12 @@
 {
   "name": "elliptical-lodash",
   "description": "Custom lodash builds for function, array and collections",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/elliptical-lodash.git"
+    "url": "https://github.com/ellipticaljs/lodash.git"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
